@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_streets"
+        android:title="Streets"
+        app:showAsAction="always"
+        android:orderInCategory="100"/>
+
+    <item
+        android:id="@+id/action_sat"
+        android:title="Sat"
+        app:showAsAction="always"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_dark"
+        android:title="Dark"
+        app:showAsAction="always"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/action_light"
+        android:title="Light"
+        app:showAsAction="always"
+        android:orderInCategory="100"/>
+</menu>

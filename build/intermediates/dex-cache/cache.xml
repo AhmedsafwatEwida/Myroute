@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\ef959edfe823dde83dd1e98f0cbccce97b638576\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_1e77be36ce0a0fa8a4eedf8028b99934548b04ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\05e838650f599b877af296902fe35dcf934d28d2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_49c9d2a7dc299289355d9b1b0de323df9d5d9d15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\4d2a77d9d9faf6d2f4e07b52892c65e218ece973\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_ca3210a5812ae43c2ddb43cf577c6a250b96e771.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\gson-2.7_848af16a840f93314ae6c62b6186a9102180c068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\22f859e3900705f653f91c02a5c85d4062a18d89\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_c465cbe07be8ee703712eb1f3bd4133f978c8f44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\47cc11ad1b608cf89aa4187bc61e52e26c3f8471\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_0d79898de955bd2f0047a0d48ea88a533392762f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\4e6cf5cd3f26ec63095146028909083b2654919a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9d0d2b21baebf49c526d857991e2d48f30fcb00">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_1b4281c122720ebc87221a3e1dbc5ce5e67e76d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\d7fbd03bd72c30c7c36c8fbabe1bbec4ba1c66e1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c77ef83420db92b311d7f6ea0240a5e000b20d82">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_91c7be9553ab9f157e3e7f51918241156d5b920c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\dfe897bde8bd9e04d49f402a420acb5d113398a1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_d73513ce51e53f9eb099f85764a89449f61130b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\a393836bd07c042f20ee3692e96c9c8e18752328\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_a569d6d9cbe3ae03f77efc3f93ad37bf3d9f8cfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\3dce3dcb488296c370966f6a561930ef65b54ba8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_4fafd0ec73e144d22f1ce039e4b786ad6cad16ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\guava-18.0_23ae9d619c9ad952ac11ce7bff78df802e3e98c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\9538157020cb747a091ca613ba58bf4cabc88058\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_add54b1f33400432714bb36c0ae692f1860b5911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.gradle\caches\modules-2\files-2.1\com.mapbox.mapboxsdk\mapbox-java-services\1.3.1\6bda5f2cf57af827c1a9703a77ed9e451e6d6d25\mapbox-java-services-1.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bda5f2cf57af827c1a9703a77ed9e451e6d6d25">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\mapbox-java-services-1.3.1_555eb43ffe07e87f8b0f5a41eab79b25362ddcd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\ec48aa7c1c5a9242bbd8d109fe1ed247e24b38dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052802ed198178e7133de387fbc87d3f2998482a">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_4f51e889c248fc44276244c941db8504a6d80ae7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\0cd3b4329cbf665f562243679aa37b1366f0d631\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_8fa06814099b9f997c6817c9e842906788619a70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\0967bc006728b4c00a21c63220f8fc421aad8315\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8d8c5463a1a50691e2cf66cd7ce4751c8545b584">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_1ff4ba3af3b15b2d4e7f6a1f28a5f41ad6b88832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\0d3799d4d6144b079465a7b3221d67ae58ccc5aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_014cf70d2c40cf8cb2212e1ae507e1f5e7af8492.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.3.1_7794496fae5646705995674804771d97babbab3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\e5dc1a03337788de571e81e61182718882e4f19f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_4227ac7bd84e7b076785fb571011c20b8561f15b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\32b804ecf4f3464154dd2ca95c8fc2ac8d465fcc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_d2ec0af421dbcfa06291c95cb8d8621ee4fa6d08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\5296de9411c6de7c8bac63229cbd2b8e73e2cffe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_de1f176aacaa9831d98481647081c6eca1e69428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\library-2.4.0_8347a1cd8bd6bf2b147755b541a977b109e91718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_cdd067d3e2e54cacb2f27cce9403567b104d6cb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\safwa\.android\build-cache\63dd8bcc73839e8a6e0fa0e95491b5b89386cd0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\safwa\AndroidStudioProjects\MyRoute\app\build\intermediates\pre-dexed\debug\classes_602d9d3a860d3ef1cc27c3ea59a49459c97d3502.jar" />
+    </item>
+
+</items>
