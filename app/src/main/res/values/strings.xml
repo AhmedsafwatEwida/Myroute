@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">MyRoute</string>
-    <string name="str_rb_driving">Driving</string>
-    <string name="str_rb_bicycling">BiCycling</string>
-    <string name="str_rb_walking">Walking</string>
-    <string name="spinner_route">Select Route</string>
-    <string name="access_token">pk.eyJ1IjoiYXNhZndhdCIsImEiOiJjajBiOWtoMHIwMDIwMzNteG13MTF4NGFhIn0.r9TS-VMH6v0Tv2PKInJFNw</string>
-</resources>
